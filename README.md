@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armanhussain707/Armanhussain707/main/banner.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Armanhussain707/Armanhussain707/main/banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arman Hussain</h1>
@@ -76,7 +76,7 @@ Used responsibly to:
 
 ## 📄 Resume
 
-📥 <a href="https://github.com/Armanhussain707/arman-resume/raw/main/Arman_Hussain_Resume.pdf" target="_blank">Download My Resume (PDF)</a>
+📥 <a href="https://github.com/Armanhussain707/arman-resume/raw/main/Arman-Hussain_FullStack-Web-Developer_Resume.pdf" target="_blank">Download My Resume (PDF)</a>
 
 ---
 
