@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/banner.png.png" target="_blank" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/Armanhussain707/Armanhussain707/main/banner.png.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arman Hussain</h1>
@@ -10,21 +10,42 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 About Me
 
-`HTML5` `CSS3` `Bootstrap` `Tailwind` `JavaScript` `jQuery`  
-`React.js` `PHP` `Laravel` `MySQL` `WordPress`  
-`Git` `GitHub` `SEO` `Photoshop` `Canva` `Adobe XD`
+I'm a self-driven and creative **Full-Stack Web Developer** passionate about building high-performance, responsive, and scalable websites using modern web technologies.
+
+✨ I love turning ideas into digital experiences — combining clean code, intuitive design, and thoughtful architecture.  
+💡 I'm a fast learner who continuously explores new tools and trends to stay ahead in the tech world.
+
+🔍 Currently enhancing my development workflow with **Generative AI** to speed up design iterations, improve content strategy, and bring smarter automation — **without compromising originality or problem-solving**.
+
+> I believe in writing code that’s not just functional, but meaningful and future-ready.
 
 ---
 
-## 🧠 About Me
+## 🚀 Tech Stack
 
-- 🔧 I build responsive, fast-loading websites & CMS platforms
-- 🎨 I convert Figma/XD/Canva designs into working frontend code
-- 🛠️ I create custom WordPress themes without page builders
-- 🔍 I apply SEO & performance best practices in every project
-- 🚀 Exploring Gen AI tools for smarter, faster development
+### 🖥️ Frontend
+`React.js` `JavaScript` `jQuery` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `WordPress`
+
+### 🔧 Backend & Database
+`PHP` `Laravel` `MySQL`
+
+### 🧩 CMS & Customization
+`WordPress` `Elementor` `Theme Customization` `Dynamic Content Integration`
+
+### 🎨 UI/UX & Design Tools
+`Adobe XD` `Photoshop` `Canva` `Figma (basic)`
+
+### 🛠️ Version Control & Dev Tools
+`Git` `GitHub` `VS Code`
+
+### 🤖 AI in Workflow (Productivity Enhancement)
+Used responsibly to:
+- Speed up repetitive tasks  
+- Generate design and content ideas  
+- Automate boilerplate code  
+- Stay focused on logic, creativity, and performance
 
 ---
 
@@ -33,12 +54,6 @@
 🔹 [VEI UI Frontend Project](https://github.com/Armanhussain707/vei-ui-frontend-showcase)  
 🔹 [Custom WordPress Theme – Video Editing](https://github.com/Armanhussain707/video-editing-wp-theme)  
 🔹 [Laravel Student CRUD Dashboard](https://github.com/Armanhussain707/studentmng)
-
----
-
-## 📄 Resume
-
-📥 [Download My Resume (PDF)](https://github.com/Armanhussain707/arman-resume/raw/main/Arman_Hussain_Resume.pdf)
 
 ---
 
@@ -59,12 +74,18 @@
 
 ---
 
-## 🔗 Let’s Connect
+## 📄 Resume
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arman-hussain-32020b352/)
-- 🌐 Portfolio: _Coming Soon_
-- 📧 Email: your.email@example.com
+📥 [Download My Resume (PDF)](https://github.com/Armanhussain707/arman-resume/raw/main/Arman_Hussain_Resume.pdf)
 
 ---
 
-> 💬 _"Code with purpose. Design with clarity. Build with passion."_
+## 🔗 Let’s Connect
+
+- 💼 [LinkedIn – Arman Hussain](https://www.linkedin.com/in/arman-hussain-32020b352/)
+- 📧 Email: armanhussain666666@gmail.com
+
+---
+
+> 💬 _"Code with purpose. Design with clarity. Build with passion."_  
+> 🚀 _Combining creativity and clean code to deliver smarter, faster web experiences._
