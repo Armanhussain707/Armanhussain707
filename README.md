@@ -51,9 +51,9 @@ Used responsibly to:
 
 ## 📁 Project Highlights
 
-🔹 <a href="https://github.com/Armanhussain707/vei-ui-frontend" target="_blank">VEI UI Frontend Project</a>  
+🔹 <a href="https://github.com/Armanhussain707/frontend-ui-skills" target="_blank">VEI UI Frontend Project</a>  
 🔹 <a href="https://github.com/Armanhussain707/video-editing-wp-theme" target="_blank">Custom WordPress Theme – Video Editing</a>  
-🔹 <a href="https://github.com/Armanhussain707/studentmng" target="_blank">Laravel Student CRUD Dashboard</a>
+
 
 ---
 
