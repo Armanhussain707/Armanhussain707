@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armanhussain707/video-editing-wp-theme/main/veitheme/assets/banner.png" target="_blank" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/banner.png.png" target="_blank" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arman Hussain</h1>
