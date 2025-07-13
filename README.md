@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armanhussain707/Armanhussain707/main/banner.png.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Armanhussain707/Armanhussain707/main/banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arman Hussain</h1>
@@ -25,22 +25,22 @@ I'm a self-driven and creative **Full-Stack Web Developer** passionate about bui
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
+### 🖥️ Frontend  
 `React.js` `JavaScript` `jQuery` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `WordPress`
 
-### 🔧 Backend & Database
+### 🔧 Backend & Database  
 `PHP` `Laravel` `MySQL`
 
-### 🧩 CMS & Customization
+### 🧩 CMS & Customization  
 `WordPress` `Elementor` `Theme Customization` `Dynamic Content Integration`
 
-### 🎨 UI/UX & Design Tools
+### 🎨 UI/UX & Design Tools  
 `Adobe XD` `Photoshop` `Canva` `Figma (basic)`
 
-### 🛠️ Version Control & Dev Tools
+### 🛠️ Version Control & Dev Tools  
 `Git` `GitHub` `VS Code`
 
-### 🤖 AI in Workflow (Productivity Enhancement)
+### 🤖 AI in Workflow (Productivity Enhancement)  
 Used responsibly to:
 - Speed up repetitive tasks  
 - Generate design and content ideas  
@@ -51,9 +51,9 @@ Used responsibly to:
 
 ## 📁 Project Highlights
 
-🔹 [VEI UI Frontend Project](https://github.com/Armanhussain707/vei-ui-frontend-showcase)  
-🔹 [Custom WordPress Theme – Video Editing](https://github.com/Armanhussain707/video-editing-wp-theme)  
-🔹 [Laravel Student CRUD Dashboard](https://github.com/Armanhussain707/studentmng)
+🔹 <a href="https://github.com/Armanhussain707/vei-ui-frontend" target="_blank">VEI UI Frontend Project</a>  
+🔹 <a href="https://github.com/Armanhussain707/video-editing-wp-theme" target="_blank">Custom WordPress Theme – Video Editing</a>  
+🔹 <a href="https://github.com/Armanhussain707/studentmng" target="_blank">Laravel Student CRUD Dashboard</a>
 
 ---
 
@@ -76,13 +76,13 @@ Used responsibly to:
 
 ## 📄 Resume
 
-📥 [Download My Resume (PDF)](https://github.com/Armanhussain707/arman-resume/raw/main/Arman_Hussain_Resume.pdf)
+📥 <a href="https://github.com/Armanhussain707/arman-resume/raw/main/Arman_Hussain_Resume.pdf" target="_blank">Download My Resume (PDF)</a>
 
 ---
 
 ## 🔗 Let’s Connect
 
-- 💼 [LinkedIn – Arman Hussain](https://www.linkedin.com/in/arman-hussain-32020b352/)
+- 💼 <a href="https://www.linkedin.com/in/arman-hussain-32020b352/" target="_blank">LinkedIn – Arman Hussain</a>  
 - 📧 Email: armanhussain666666@gmail.com
 
 ---
