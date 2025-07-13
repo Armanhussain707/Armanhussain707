@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armanhussain707/video-editing-wp-theme/main/veitheme/assets/banner.png" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/Armanhussain707/video-editing-wp-theme/main/veitheme/assets/banner.png" target="_blank" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arman Hussain</h1>
@@ -20,11 +20,11 @@
 
 ## 🧠 About Me
 
-- 🔧 I build responsive, fast-loading websites & CMS platforms  
-- 🎨 I convert Figma/XD/Canva designs into working frontend code  
-- 🛠️ I create custom WordPress themes without page builders  
-- 🔍 I apply SEO & performance best practices in every project  
-- 🚀 Exploring Gen AI tools for smarter, faster development  
+- 🔧 I build responsive, fast-loading websites & CMS platforms
+- 🎨 I convert Figma/XD/Canva designs into working frontend code
+- 🛠️ I create custom WordPress themes without page builders
+- 🔍 I apply SEO & performance best practices in every project
+- 🚀 Exploring Gen AI tools for smarter, faster development
 
 ---
 
@@ -32,7 +32,7 @@
 
 🔹 [VEI UI Frontend Project](https://github.com/Armanhussain707/vei-ui-frontend-showcase)  
 🔹 [Custom WordPress Theme – Video Editing](https://github.com/Armanhussain707/video-editing-wp-theme)  
-🔹 [Laravel Student CRUD Dashboard](https://github.com/Armanhussain707/studentmng)  
+🔹 [Laravel Student CRUD Dashboard](https://github.com/Armanhussain707/studentmng)
 
 ---
 
@@ -61,8 +61,8 @@
 
 ## 🔗 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arman-hussain-32020b352/)  
-- 🌐 Portfolio: *Coming Soon*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arman-hussain-32020b352/)
+- 🌐 Portfolio: _Coming Soon_
 - 📧 Email: your.email@example.com
 
 ---
