@@ -76,7 +76,7 @@ Used responsibly to:
 
 ## 📄 Resume
 
-📥 <a href="https://github.com/Armanhussain707/raw/main/Arman-Hussain_FullStack-Web-Developer_Resume.pdf" target="_blank">Download My Resume (PDF)</a>
+📥 <a href="https://github.com/Armanhussain707/Armanhussain707/raw/main/Arman-Hussain_FullStack-Web-Developer_Resume.pdf" target="_blank">Download My Resume (PDF)</a>
 
 ---
 
